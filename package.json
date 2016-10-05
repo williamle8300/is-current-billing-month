@@ -10,6 +10,10 @@
     "date",
     "billing-period"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/williamle8300/is-current-billing-month.git"
+  },
   "author": "William Le <williamle8300@gmail.com>",
   "license": "ISC"
 }
