@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/williamle8300/is-same-month-year.git"
+    "url": "git://github.com/williamle8300/is-same-monthyear.git"
   },
   "author": "William Le <williamle8300@gmail.com>",
   "license": "ISC"
