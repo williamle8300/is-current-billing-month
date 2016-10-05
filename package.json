@@ -1,6 +1,6 @@
 {
   "name": "is-same-monthyear",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Determine whether a Date overlaps with today's month and year",
   "main": "index.js",
   "scripts": {
