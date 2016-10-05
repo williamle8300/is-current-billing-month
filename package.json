@@ -1,0 +1,15 @@
+{
+  "name": "is-current-billing-month",
+  "version": "0.0.1",
+  "description": "Determine whether a Date overlaps with today's month and year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date",
+    "billing-period"
+  ],
+  "author": "William Le <williamle8300@gmail.com>",
+  "license": "ISC"
+}
