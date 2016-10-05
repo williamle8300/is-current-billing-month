@@ -1,5 +1,5 @@
 {
-  "name": "is-current-billing-month",
+  "name": "is-same-monthyear",
   "version": "0.0.1",
   "description": "Determine whether a Date overlaps with today's month and year",
   "main": "index.js",
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/williamle8300/is-current-billing-month.git"
+    "url": "git://github.com/williamle8300/is-same-month-year.git"
   },
   "author": "William Le <williamle8300@gmail.com>",
   "license": "ISC"
